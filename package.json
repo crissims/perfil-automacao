@@ -1,0 +1,24 @@
+{
+  "name": "perfil-automacao",
+  "version": "1.0.0",
+  "description": "Automação de Testes - Perfil",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\crist\\OneDrive\\Documentos\\Automacao-Perfil\\perfil-automacao"
+  },
+  "keywords": [
+    "123456789"
+  ],
+  "author": "Cristiane Martins",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  },
+  "dependencies": {
+    "perfil-automacao": "file:"
+  }
+}
